@@ -1,5 +1,7 @@
 # Submission for Kaggle - Trading at the Close 
-Training code for the 15th place submission at Trading at the Close competition.
+Training code for the 15th place submission as a solo entry.
+
+See detailed write-up [here](https://www.kaggle.com/competitions/optiver-trading-at-the-close/discussion/486086).
 
 
 # Acknowledgements
